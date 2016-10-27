@@ -20,7 +20,6 @@ This is my Django project template, which greatly simplifies the development
 │   │   │   └── __init__.py  
 │   │   └── __init__.py  
 │   ├── apps  
-│   │   ├── template_app.zip  
 │   │   └── __init__.py  
 │   └── __init__.py  
 ├── requirements.txt  
